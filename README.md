@@ -1,0 +1,3 @@
+# The_Game_shooter
+Для того чтобы вставить длинный дефис, нужно нажать и удерживать клавишу «Alt», затем ввести на цифровой клавиатуре код символа длинного дефиса — 0150, и после этого отпустить клавишу «Alt». Дефис будет вставлен в место, где находился курсор. Второй способ — использовать встроенную функцию «Автозамена».
+In order to insert a long hyphen, you need to press and hold the “Alt” key, then enter the code for the long hyphen symbol on the numeric keypad - 0150, and then release the “Alt” key. The hyphen will be inserted where the cursor was. The second way is to use the built-in AutoCorrect feature.
